@@ -47,7 +47,7 @@ contract Contract {
 
     function sortNumbs() public {
         numbers.sort();
-        console.log("Array sorted");
+        console.log("arr sorted");
     }
 
     function removeAtIndex(uint _index) public {
